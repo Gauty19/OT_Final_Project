@@ -1,0 +1,15 @@
+Our group, which includes Gautam, Raj, Sanjeev, and Kartheek, is working on the topic "How do Credit Card Transactions Work?"
+Throughout our work, we are looking at: 1)the journey from swipe to settlement.
+2) Exploring key security features(EVM, CVV, Tokenization).
+3) Looking at the common fraud techniques and how to overcome them.
+4) We look forward to giving a visual representation of the process + the risks during the process and how to protect yourself from those risks.
+We start with the lifecycle of a credit card transaction that includes Authorization, Authentication, Clearing, Settlement, and Reconciliation.
+We then move to the security measures taken in credit card transactions, and in this
+We looked at why transaction security is important, the common threats in daily leaves and
+The security objectives we need to take while making a transactions.
+We also looked at the roles of EVM chips, Tokenization, and CVV codes: Card Verification Value.
+The way they work, where they are used, and their benefits. 
+We went through some of the common fraud techniques as well, which include:
+Credit card skimming, Identity theft, and Phishing. 
+We then end by giving a visual representation of the full process, which includes:
+The risks involved and the solutions to those risks.
