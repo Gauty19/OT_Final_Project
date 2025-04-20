@@ -13,3 +13,42 @@ We went through some of the common fraud techniques as well, which include:
 Credit card skimming, Identity theft, and Phishing. 
 We then end by giving a visual representation of the full process, which includes:
 The risks involved, and the solutions to those risks.
+
+Security measures in credit card transactions.
+Introduction about tokenization.
+This world has been developed more that it has started digital transactions and there are many experts in this field also.People use credit cards for making transactions.And hackers use these numbers of transaction cards for scams.Many people get into the trap because of this fraud and breaches.Phishing and cyberattacks are common frauds in these days and credit cards are used for selling on the dark web.So, tokenization came into the play to reduce these kinds of frauds.This is to prevent from the misuse of cards by exposing the actual card details to the user.
+
+What is credit card tokenization?
+Credit card tokenization is  a system through which the user can only see the token instead of card number.It replaces the main and actual card number with the token number which is every time unique.The merchants while using this card can only access the token not the real and actual card number.Tokens that were provided are always worthless for the second users and if anyone try to breach it then it cannot be reversed again.It is the safest system for the user or the merchants.This system is used through online transitions, found in apps also and it is also possible for the contactless transactions.
+
+How does it work?
+This works through the following steps:
+1.)As the merchants add the card to their digital wallet.
+2.)Then the wallet requests a token from the person who is making the payment or the transactions and the payment networks.
+3.)And then token that has been created, card image or the cryptographich are sent to the users’ wallet back.
+4.)So, the token is just like the mirror or the shadow for the credit card number so the at users can use during making the transactions without getting in trap of fraud or other scams.
+5)The issuer verifies the token and give authorization to it for the safe use of making transactions.
+
+What are the benefits of using tokenization?
+Through this kind of transaction making system, the exposure of data from the cards has been reduced that led to the enhancement of security.It is also very much helpful in regulatory compliances like PCI DSS, GDPR, etc.Through the safe transaction without exposing the actual card number, it enhances the trust of the customers.One more feature of this tokenization is that it cannot be reused out of its origin environment which reduced the liability and frauds.Of Course it has the capability to conduct the faster transactions efficiently.It gives the flexibility to one click, and for also repeating and to make transactions for the contactless payments.
+
+Usage of tokens in different places…
+It can be used for e-commerce transactions.It is totally personalized and can have safe and secure checkouts even if the device is stolen in some cases.It is used for making transactions in case of purchasing the products through online apps.While make a purchase on any kinds of online applications then each mode of transaction have the tokenization like google pay or apple pay.Each has the tokenization system.It has also the feature of one time payment by keeping the data safe.This is something like click to Pay which does not save data. In case of Cryptocurrrency transaction, tokenization is used safely.
+
+Tokenization is a very vital and important part for making transactions safely and efficiently in modern digital payments.
+
+About EMV-chip
+What is EMV?
+Another mode of making transactions is through the EMV(Europay,Mastercard & Visa).It is considered as the global standard mode of making safe & secure transactions through using chips instead of magnetic stripes.It allows to make transactions in both cases face-to-face and remote places.This is managed by EMVCo who is a global technical body.It takes the responsibility of managing it properly and ensures to have interoperability in it and give updates of multi specifications.This technology is developed in 1990s Europe to reduce the high costs of card Authorization.The updates with special specifications are like contacts, contactless,mobile and QR-code based payments.
+
+How does it Work?
+1.)First Customer inserts the EMV card at the point of sale(POS)terminal.
+2.)Then the microchip of the card and POS terminal after coming into contact,creates a transaction code.
+3.)It is authorised by PIN,signature or contactless verifications.
+4.)Each transaction has one-time-code which cannot be reused.
+5.)The POS terminal also checks if the card is genuine or not.
+6.)Mercahnt’s bank  sends details of transactions to the card issuer.
+7.)When the transaction is approved then it creates a transaction receipt.
+Limitations of EMV.
+There many limitations on usage of EMV.It is only much effective in card-present means in making transaction only on availability of person.It is less effective for making online transactions.Its security is also rely on merchant systems.It can put at risk when there is weak or missing encryption at POS.
+
