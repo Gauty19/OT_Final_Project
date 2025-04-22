@@ -46,6 +46,46 @@ Transfer Money The money is paid by the issuing bank to the acquiring bank (less
 
 
 Security measures in credit card transactions.
+Authorization of transaction:
+It is all about the allowance of the bank for the card use to the merchant.
+How an Authorized Transaction Works?
+While initiating the transaction,data is transmitted to the bank through the processing network routes and then Authorization is done by issuing a bank.And then the bank sends approval and notification to the merchant as confirmation of the settlements of the bank.
+
+Differences between Authorization & Authentication
+Authorization is done to check whether the cardholder has enough funds to complete the transaction or not.It is done through issuing bank and verifying bank balance and when it happens then the details of the card is submitted and authentication is completed to protect the merchant.
+Authentication is just to verify the person of the actual cardholder which prevents from fraudulent transactions.The following ways are for authentications are through EMV chips,magnetic strips,CVV codes,PIN or signature and biometrics.
+
+Introduction to CVV.
+Generally, in daily lives we make many transactions for shopping or some other purposes through card verification value(CVV).It is also known as CSC(card Security Code) which is a kind of three-digit code on the back.Merchants use this to ensure that card is physically available there while making transactions and it is being used by the rightful owner of the card holder.It also played role in enhance and improvement in card verification to avoid frauds and scams.
+What is Card Verification Value(CVV)?Where is CVV located on a credit card or Debit Card?
+CVV(card verification value) is a kind of security code holder that exposes while making transactions during card is not present like online purchases and so on.It is very helpful in just for endurance to confirm the actual card owner just to protect from frauds.CNP(card-not-present) transaction is done when remote purchases is done or in case of e-commerce.One most important feature of this CVV is that its data is not stored for security reasons.Even if it is leaked by some case then lack of CVV cannot fulfill the purchases and it is prevented from the frauds.And this make its defensive feature for its usage.
+CVV is a three-digit number that is present on the back of the card basically on the signature panel either on Visa or Mastercard.And on American Express(Amex),it is located on the front side of the card which is four-digit number.All kinds of cards having CVV have the same function in making transaction without any kind of frauds.
+
+How do Card Verification Values work?
+It functions through the following ways:-
+Initiating a purchase:while making transactions,a customer is supposed to enter the card details like number,expiration date & CVV.
+Data Submission:After entering the card details,then it is sent to the merchant’s payment gateway and later on it is sent to the payment processor.
+Validation Request:Then to make insurance the payment processor sends a request to the issuer.
+Cardholder Data Verification:Then the issuer checks to verify the information with the CVV details.
+Verification Response:The issuer gives approval for proceedings if CVV and other card details are correct.
+Transaction Completion:And if whole details are approved,then payment processes are finalised for the transactions.
+How do Card Verification Values help stop fraud?How effective are card verification values at deterring fraud?
+It helps to reduce the risks of the CNP transactions.It adds the security level for merchants as well as for buyer also.It is not restored,so it cannot be also used by others and it avoids from breaches.Manual entry of card details is necessary which ensures the availability of the card issuer or the owner.It reduces the unauthorised usage.It is very strong deterrent for CNP frauds even if it is stolen.CVVs are present on the card,so anyone can use it without any Authorization.And secondly if card holder is not the right owner of the card because CVV does not ensures this.So,rely only on CVV is not enough for security measures.And that is why it is very needed to have some additional security for strengthening its protection.So,AVS(address verification service) has to be matched with the billing address during the entry of checkouts with the address on file along with card issuer.This helps to confirm the cardholder’s identity.And ultimately,multiple verification tools like AVS and two factor authentication with CVV make its much stronger protection.
+
+Innovations in card verification value technology?
+It has many innovations like,
+CVV1 Technology:
+It was the first generation innovation which was encoded in the magnetic strip on the backside of the payment cards.It was used in-person for making transactions.It was ineffective for online purchases.It was also unsafe to use as its data can be theft.
+CVV2 Technology:
+It is the current card in the market which is located on back side of the card and it is designed especially for the CNP(card not present) transactions.It is updated one of CVV1 and that is why it is more secure in use.But one limitation is that manual recording of this card takes more time and it is easier to detect.
+CVV3 Technology:
+It is emerging and is a kind of future standard card.It is known as dynamic CVV(dCVV).It will replace static codes that can change periodically.It can work like two-factor authentication(2FA) for security reasons which can generate temporary verification code.It can prevent much better from frauds.
+
+How do Card holders protect their CVV?
+The cardholders can protect their CVV through many protection tips like they should not share CVV with anyone,they should review the transactions and they can report the compromises and so on.They can have safe online shopping practices like checking reputation of merchants and avoiding the sites which is not trustable.One should also be aware of the scams like phishing, one should avoid unsolicited requests and check texts or mails properly.
+
+How can merchants leverage CVVs to stop fraud?
+Merchants can do basic implementations like CVV checkouts so that there should be no CVV storage.They can have anti-fraud tools through multiple ways like fraud scoring,proxy piercing,geolocation,3-D secure 2.0 technology and AVS.One can build trust and security also through proper use of ongoing security measures.
 Introduction about tokenization.
 This world has been developed more that it has started digital transactions and there are many experts in this field also.People use credit cards for making transactions.And hackers use these numbers of transaction cards for scams.Many people get into the trap because of this fraud and breaches.Phishing and cyberattacks are common frauds in these days and credit cards are used for selling on the dark web.So, tokenization came into the play to reduce these kinds of frauds.This is to prevent from the misuse of cards by exposing the actual card details to the user.
 
